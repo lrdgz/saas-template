@@ -1,7 +1,9 @@
 @extends('layouts.default')
 
+@section('title', 'Contact')
+
 @section('content')
-    <div>
-        <h1 class="text-3xl text-center text-primary">Contact</h1>
-    </div>
+    <x-contact.main/>
+    <x-contact.addresses />
+    <x-contact.form />
 @endsection
