@@ -1,3 +1,8 @@
+## Demo Images Index
+| Hero Section                                                    | Integrations                                                    |
+|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| <img src="snapshots/hero-section.png" width="200" height="150"> | <img src="snapshots/integrations.png" width="200" height="150"> |
+
 ## Compile assets
 
 - run npm install
