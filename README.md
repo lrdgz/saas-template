@@ -1,7 +1,7 @@
 ## Demo Images Index
-| Hero Section                                                    | Integrations                                                    |
-|-----------------------------------------------------------------|-----------------------------------------------------------------|
-| <img src="snapshots/hero-section.png" width="200" height="150"> | <img src="snapshots/integrations.png" width="200" height="150"> |
+| Hero Section                                                    | Integrations                                                    | Integrations                                                    | Content                                                    | Call To Action                                                    |
+|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------|
+| <img src="snapshots/hero-section.png" width="200" height="150"> | <img src="snapshots/integrations.png" width="200" height="150"> | <img src="snapshots/integrations.png" width="200" height="150"> | <img src="snapshots/content.png" width="200" height="150"> | <img src="snapshots/call-to-action.png" width="200" height="150"> |
 
 ## Compile assets
 
